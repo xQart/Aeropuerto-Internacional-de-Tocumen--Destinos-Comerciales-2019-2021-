@@ -6,9 +6,9 @@ El proyecto se desarrolló en el lenguaje de programación Python, se hizo uso d
 ## [Fuera de servicio]
 Para la implementación web se hizo uso de los servicios en la nube de Heroku , que se se basa en un sistema de contenedor administrado (llamado dynos dentro del paradigma de Heroku). Tiene servicios de datos integrados y un poderoso ecosistema para implementar y ejecutar aplicaciones modernas.
 
-![image](https://github.com/xQart/Aeropuerto-Internacional-de-Tocumen--Destinos-Comerciales-2019-2021-/assets/66072194/c0af6dd9-aafe-4202-9387-cc97b521f3e5)
+![image](https://github.com/xQart/Aeropuerto-Internacional-de-Tocumen--Destinos-Comerciales-2019-2021-/assets/66072194/ad76c836-b662-42ad-9ca6-922101bb2594)
 
-![image](https://github.com/xQart/Aeropuerto-Internacional-de-Tocumen--Destinos-Comerciales-2019-2021-/assets/66072194/c1571e4c-287b-4499-8f00-c832998fa221)
+![image](https://github.com/xQart/Aeropuerto-Internacional-de-Tocumen--Destinos-Comerciales-2019-2021-/assets/66072194/120472e0-3ba3-46b4-943d-449bc1a3503c)
 
 
 
